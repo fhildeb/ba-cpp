@@ -1,0 +1,2 @@
+
+int myFunction(int, int);
