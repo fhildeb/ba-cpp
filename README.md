@@ -17,3 +17,8 @@ BA C++ Course from the University of Applied Science Mittweida that took place i
 ## Content
 
 1. Tool Splitting of Main and Headerfiles
+2. Variable Handling
+   2.1 Makefiles
+   2.2 Matrix Iteration
+   2.3 Parameters and Interfaces
+   2.4 Pointer References for Variable Types
