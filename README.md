@@ -34,3 +34,4 @@ BA C++ Course from the University of Applied Science Mittweida that took place i
 ## Tools
 
 - [OpenCL](https://rocmdocs.amd.com/en/latest/Programming_Guides/Opencl-programming-guide.html)
+- [BrainFuck to C Converter](https://github.com/paulkaefer/bftoc/blob/master/bftoc.py)
