@@ -28,8 +28,8 @@ BA C++ Course from the University of Applied Science Mittweida that took place i
 6. Parallel Execution of Object Behavior
 7. Const Correctness
 8. Open CL
-   8.1 Device Management and Kernel Integration
-   8.2
+   8.1 Device Platform Management
+   8.2 Kernal Integration
 
 ## Tools
 
