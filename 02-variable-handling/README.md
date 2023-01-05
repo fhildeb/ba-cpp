@@ -31,4 +31,3 @@ Creating a subset of different pointer and reference scenarios with descriptions
 - syntactic and technical correctness
 - arrays as pointers
 - function pointers
-- multi-dimensional array pointers
