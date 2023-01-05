@@ -27,8 +27,9 @@ BA C++ Course from the University of Applied Science Mittweida that took place i
 5. Smart Object Pointers
 6. Parallel Execution of Object Behavior
 7. Const Correctness
-8. OpenCL Device Platform Management
-9. OpenCL
+8. Open CL
+   8.1 Device Management and Kernel Integration
+   8.2
 
 ## Tools
 
