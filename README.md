@@ -26,3 +26,4 @@ BA C++ Course from the University of Applied Science Mittweida that took place i
 4. Class Framework for Number Calculation
 5. Smart Object Pointers
 6. Parallel Execution of Object Behavior
+7. Const Correctness
