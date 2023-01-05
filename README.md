@@ -30,6 +30,8 @@ BA C++ Course from the University of Applied Science Mittweida that took place i
 8. Open CL
    8.1 Device Platform Management
    8.2 Kernal Integration
+9. Class Upcasting
+10. Brainfuck Terminal Art
 
 ## Tools
 
