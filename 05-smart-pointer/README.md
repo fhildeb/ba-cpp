@@ -1,8 +1,10 @@
-# Functionality
+# Smart Pointer
+
+## Functionality
 
 Program implementing smart object pointers that delete and re-assign unused or duplicate references in an automated way.
 
-# Terminal Output
+## Terminal Output
 
 ```bash
     // Hello world!

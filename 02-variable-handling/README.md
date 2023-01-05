@@ -1,4 +1,6 @@
-# Functionality
+# Variable Handling
+
+## Functionality
 
 - Makefiles
 - Matrix Iteration

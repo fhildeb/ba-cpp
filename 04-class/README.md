@@ -1,4 +1,6 @@
-# Functionality
+# Class
+
+## Functionality
 
 Creating a class Framework for multiplicating numbers that are stored in-line as an array construct thats accessable globally. The class has its own base and is storing the multiplicated numbers as the function is called with certain base number.
 
