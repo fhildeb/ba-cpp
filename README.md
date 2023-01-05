@@ -23,3 +23,4 @@ BA C++ Course from the University of Applied Science Mittweida that took place i
    2.3 Parameters and Interfaces
    2.4 Pointer References for Variable Types
 3. Multi-Dimensional Array Pointers
+4. Class Framework for Number Calculation
