@@ -33,16 +33,10 @@ int main (int argc, char **argv, char **envp)
 	
 	p_obj_1->p_obj = p_obj_2;
 	p_obj_2->p_obj = p_obj_1;  
+
 	// Viel Output:	
 	// shared_ptr<shared_ptr<myTest> >pp_obj(&p_obj);
-	
-	// Hello world!
-	// Object Nr. 5 wurde erzeugt
-	// Object Nr. 5 wurde gelöscht
-	// Object Nr. 1 wurde erzeugt
-	// Object Nr. 2 wurde erzeugt
-	// Object Nr. 2 wurde gelöscht
-	// Object Nr. 1 wurde gelöscht
+
 	
   return 0; // alles ok
 }
