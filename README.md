@@ -2,7 +2,7 @@
 
 BA C++ Course from the University of Applied Science Mittweida that took place in 2018.
 
-## Course Contents
+## Course Content
 
 - Development environments for minimal languages
 - Compiler, debugger, profiler
@@ -14,20 +14,20 @@ BA C++ Course from the University of Applied Science Mittweida that took place i
 - Pattern techniques
 - Parallel and distributed computing
 
-## Content
+## Repository Content
 
-1. Tool Splitting of Main and Headerfiles
+1. Main and Headerfile Splitting
 2. Variable Handling
    - Makefiles
    - Matrix Iteration
    - Parameters and Interfaces
    - Pointer References for Variable Types
-3. Multi-Dimensional Array Pointers
+3. Multi-Dimensional Array Pointer App
 4. Class Framework for Number Calculation
-5. Smart Object Pointers
+5. Smart Object Pointer Framework
 6. Parallel Execution of Object Behavior
-7. Const Correctness
-8. Open CL
+7. Const Correctness for Classes
+8. Open CL Development
    - Device Platform Management
    - Kernal Integration
 9. Class Upcasting
