@@ -27,8 +27,6 @@ int main ()
 	cout << (*(&(*(&z))));
 	cout << (&(*(&(*z))));
 	cout << (*(*(&(*z))));
-	
-	cout << "\n Aufgabe 3" <<endl;	
 
 	// Aufgabe 3 + 4
 	int arry[2] = {0,1};
@@ -41,8 +39,6 @@ int main ()
 	for(int i = 0; i < (sizeof(arry)/sizeof(arry[0])); i++){
 	cout << arry[i] <<endl;	
 	}
-	
-	cout << "\n Aufgabe 5" <<endl;
 	
 	// Aufgabe 5
 	int arry2 [3][4][2] ={

@@ -14,7 +14,7 @@ template<typename T>  T determine_max(T a, const T b)
 } // max
 
 
-//Aufgabe 2
+// Aufgabe 2
 template<typename T> void sort(T* arr, const int n)
 {
 	for(int i=0; i < n; i++)
