@@ -32,6 +32,7 @@ BA C++ Course from the University of Applied Science Mittweida that took place i
    - Kernal Integration
 9. Class Upcasting
 10. Brainfuck Terminal Art
+11. Vector Arithmetic and Sorting
 
 ## Tools
 
