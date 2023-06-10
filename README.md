@@ -4,6 +4,12 @@ BA C++ Course from the University of Applied Science Mittweida that took place i
 
 ## Course Content
 
+From a fundamental understanding of minimal language development environments, compiler operations, and concurrency for threads and processes, to the nuanced topics of method handling and environment interactions, the course spanned a comprehensive spectrum for C++ programming.
+
+Advanced concepts like template programming and pattern techniques were meticulously discussed and critical competencies in parallel and distributed computing fostered.
+
+### Core Features
+
 - Development environments for minimal languages
 - Compiler, debugger, profiler
 - Method handling, parameters, environment
